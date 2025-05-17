@@ -1,0 +1,1 @@
+ALTER TABLE has ADD COLUMN secret TEXT;
